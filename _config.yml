@@ -3,4 +3,5 @@ title: acampillos
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 url: "https://acampillos.github.io"
-baseurl: "https://acampillos.github.io"
+# baseurl: "https://acampillos.github.io"
+baseurl: /
